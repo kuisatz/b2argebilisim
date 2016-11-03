@@ -271,7 +271,7 @@ namespace SFDM;
          * different approach for same purpose, not moved to be cpnsiered later maybe
          * @author Mustafa Zeynel Dağlı
          * @since 19/01/2016
-         * @todo Maybe added to sanalfabrika wiki under bitrix24 application
+         * @todo Maybe added to B2 Arge Bilişim wiki under bitrix24 application
          */
         /*$noroutefoundstrategy = $sm->get('ViewManager')->getRouteNotFoundStrategy(); 
         $noroutefoundstrategy->setNotFoundTemplate('error/nameoferrorpage');*/ 
