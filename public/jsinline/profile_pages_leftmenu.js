@@ -260,8 +260,8 @@ function ulActivation(clicked) {
     }
 
     $.ajax({
-        url: 'https://proxy.b2argebilisim.com/SlimProxyBoot.php',
-        //                url: 'http://proxy.b2argebilisim.com:9990/SlimProxyBoot.php',            
+        url: 'https://proxy.uretimosb.com/SlimProxyBoot.php',
+        //                url: 'http://proxy.uretimosb.com:9990/SlimProxyBoot.php',            
         data: {
             url: 'pkFillFirmMachineGroupsCounts_infoFirmMachineTool',
             language_code: $("#langCode").val(),

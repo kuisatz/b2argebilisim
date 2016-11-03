@@ -26,8 +26,8 @@ $(document).ready(function () {
 
 
     $.ajax({
-        url: 'https://proxy.b2argebilisim.com/SlimProxyBoot.php',
-        //                url: 'http://proxy.b2argebilisim.com:9990/SlimProxyBoot.php',            
+        url: 'https://proxy.uretimosb.com/SlimProxyBoot.php',
+        //                url: 'http://proxy.uretimosb.com:9990/SlimProxyBoot.php',            
         data: {
             url: 'fillCompanyInfoEmployeesGuest_infoFirmProfile',
             language_code: $("#langCode").val(),
@@ -48,8 +48,8 @@ $(document).ready(function () {
      *
      */
     $.ajax({
-        url: 'https://proxy.b2argebilisim.com/SlimProxyBoot.php',
-        //                url: 'http://proxy.b2argebilisim.com:9990/SlimProxyBoot.php',            
+        url: 'https://proxy.uretimosb.com/SlimProxyBoot.php',
+        //                url: 'http://proxy.uretimosb.com:9990/SlimProxyBoot.php',            
         data: {
             url: prod_service_url,
             language_code: $("#langCode").val(),

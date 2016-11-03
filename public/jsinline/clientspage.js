@@ -24,8 +24,8 @@ $(document).ready(function () {
     $("#pagination_content").empty();
     //    $("#pagination_content").html("Page " + num); // or some ajax content loading...
     $.ajax({
-        url: 'https://proxy.b2argebilisim.com/SlimProxyBoot.php',
-        //                url: 'http://proxy.b2argebilisim.com:9990/SlimProxyBoot.php',            
+        url: 'https://proxy.uretimosb.com/SlimProxyBoot.php',
+        //                url: 'http://proxy.uretimosb.com:9990/SlimProxyBoot.php',            
         data: {
             url: list_service_url,
             pk: $('#pk').val(),
