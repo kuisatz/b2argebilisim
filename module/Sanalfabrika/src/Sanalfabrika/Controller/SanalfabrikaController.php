@@ -3,7 +3,7 @@
 /**
  * OSTİM TEKNOLOJİ Framework 
  *
- * @link      https://github.com/corner82/sanalfabrika for the canonical source repository
+ * @link      https://github.com/corner82/B2 Arge Bilişim for the canonical source repository
  * @copyright Copyright (c) 2016 OSTİM TEKNOLOJİ (http://www.ostim.com.tr)
  * @license   
  */
