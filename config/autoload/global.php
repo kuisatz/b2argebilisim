@@ -159,7 +159,7 @@ return array(
     ),
     'dbAdapterPostgre' => array(
         'driver'    => 'Pdo',    
-        'dsn'       => "pgsql:host=localhost;dbname=ostim_development",
+        'dsn'       => "pgsql:host=localhost;dbname=b2argebilisim_development",
         'username'  => 'postgres',
         'password'  => '1Qaaal123',          
     ),

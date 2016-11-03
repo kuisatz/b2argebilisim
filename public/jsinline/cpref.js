@@ -30,7 +30,7 @@ $(document).ready(function () {
      */
 
     $.ajax({
-        url: 'https://proxy.uretimosb.com/SlimProxyBoot.php',
+        url: 'https://proxy.b2argebilisim.com/SlimProxyBoot.php',
         data: {
             url: 'pkGetFirmVerbalConsultant_infoFirmVerbal',
             language_code: $("#langCode").val(),
